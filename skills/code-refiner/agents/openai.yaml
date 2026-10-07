@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Refiner"
+  short_description: "Clean up changed code safely"
+  default_prompt: "Use $code-refiner to review changed code and apply behavior-preserving refinement fixes."
